@@ -1,0 +1,15 @@
+{
+  "name": "riya-niyamaka-bot",
+  "version": "1.0.0",
+  "description": "School traffic squad bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0",
+    "node-cron": "^3.0.3",
+    "puppeteer": "^21.4.1"
+  }
+}
